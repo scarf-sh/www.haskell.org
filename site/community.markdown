@@ -27,6 +27,7 @@ Haskellers are active on a number of online areas, but the most busy are below:
 *   [Haskell Weekly e-mail newsletter](https://haskellweekly.news/)
 *   [Haskell Gitter Community Chat](https://gitter.im/haskell-chat)
 *   [Haskell Communities and Activities Report](https://wiki.haskell.org/Haskell_Communities_and_Activities_Report)
+*   [Kbin](https://kbin.social/m/haskell)
 
 ## In-person Groups and Meetups
 
@@ -52,10 +53,10 @@ There are a number of Haskell Users groups where haskellers meet to learn and co
 
 Haskell infrastructure is mostly maintained by committees and groups of volunteers.  Here are some of the committees involved in keeping things running:
 
-*   [Core Libraries Committee](https://wiki.haskell.org/Core_Libraries_Committee)
+*   [Core Libraries Committee](https://github.com/haskell/core-libraries-committee)
 *   [GHC Steering Committee](https://github.com/ghc-proposals/ghc-proposals)
 *   [Hackage trustees](https://wiki.haskell.org/Hackage_trustees)
-*   [Haskell.org committee](/haskell-org-committee)
+*   [Haskell.org committee](/haskell-org-committee/)
 *   [Stackage maintainers](https://docs.haskellstack.org/en/stable/maintainers/team_process/)
 *   [Haskell admin team](https://github.com/haskell-infra/haskell-admins/): responsible for all `***.haskell.org` infrastructure, including this website.
 
@@ -101,7 +102,7 @@ Haskell Hackathons are a long tradition, with lots of learning and social exchan
 *   [Industrial Haskell Group](http://industry.haskell.org/)
 *   [Commercial Haskell Group](http://commercialhaskell.com/)
 *   [DataHaskell: data science, machine learning, numerical computation and related](http://www.datahaskell.org/)
-*   [Haskell Art](http://lurk.org/groups/haskell-art/)
+*   [Haskell Art](https://we.lurk.org/mailman3/lists/haskell-art.we.lurk.org/)
 
 ## Supporting the Community
 

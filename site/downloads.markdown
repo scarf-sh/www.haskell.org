@@ -4,29 +4,40 @@ page: downloads
 isDownloads: true
 ---
 
+<div class="bs-callout bs-callout-info" style="padding: 0px 0px 10px 20px">
+  <p>
+    <h4>Psssst!</h4>
+    Looking to get started with Haskell? If so, check out the [Get Started](/get-started) page!
+  </p>
+</div>
+
 # Downloads
 
-This page describes the installation of the Haskell toolchain, which consists of the following tools:
+## Recommended installation instructions
+
+*for Linux, macOS, FreeBSD, Windows or WSL2*
+
+
+* Use <a href="https://www.haskell.org/ghcup/" class="btn btn-xs btn-primary">GHCup</a> to install GHC, cabal-install, Stack and haskell-language-server
+
+<br>
+
+* * *
+
+### Find out more about the Haskell toolchain
+
+The Haskell toolchain consists of the following tools:
 
 *   [GHC](https://www.haskell.org/ghc/): the Glasgow Haskell Compiler
 *   [cabal-install](https://cabal.readthedocs.io): the Cabal installation tool for managing Haskell software
 *   [Stack](https://docs.haskellstack.org): a cross-platform program for developing Haskell projects
 *   [haskell-language-server](https://github.com/haskell/haskell-language-server) (optional): A language server for developers to integrate with their editor/IDE
 
-## Recommended installation instructions
-
-*for Linux, macOS, FreeBSD, Windows or WSL2*
-
-1. Install GHC, cabal-install and haskell-language-server via [GHCup](https://www.haskell.org/ghcup/)
-2. To install Stack, follow the [Stack installation guide](https://docs.haskellstack.org/en/stable/install_and_upgrade/)
-
-* * *
-
-### Via native OS package manager
+### Installation via native OS package manager
 
 Alternatively, many operating systems provide GHC, cabal and Stack through their native package manager.  The packages are often out-of-date but if you prefer to use this method of installation then you will find useful links below.
 
-<p><a data-toggle="collapse" href="#collapse-linux" class="btn btn-xs btn-primary">Show Linux distros</a></p>
+<p><a data-toggle="collapse" href="#collapse-linux" class="btn btn-xs">Show Linux distros</a></p>
 
 <div id="collapse-linux" class="collapse">
 
@@ -72,12 +83,14 @@ Alternatively, many operating systems provide GHC, cabal and Stack through their
 **Do not use the Haskell development tools provided by Arch, they are broken.** For more information see [[1]](https://dixonary.co.uk/blog/haskell/cabal-2020) [[2]](https://stackoverflow.com/questions/65643699/what-is-the-suggested-way-of-setting-up-haskell-on-archlinux/65644318#65644318).
 </div>
 
-<p><a data-toggle="collapse" href="#collapse-nixos" class="btn btn-xs btn-primary">Show Nix/NixOS instructions</a></p>
+<p><a data-toggle="collapse" href="#collapse-nixos" class="btn btn-xs">Show Nix/NixOS instructions</a></p>
 
 <div id="collapse-nixos" class="collapse">
 <!-- This installation method is owned by @maralorn -->
 
-*for Nix the package manager on the distribution NixOS and other OS*
+*[Nix] is the package manager for NixOS and can also be used on other Linux distros and macOS.*
+
+[Nix]: https://nixos.org
 
 * **Using ghcup on NixOS does not work.** Use the official packages instead.
 * You can get started by installing
@@ -89,7 +102,7 @@ Alternatively, many operating systems provide GHC, cabal and Stack through their
 
 </div>
 
-<p><a data-toggle="collapse" href="#collapse-freebsd" class="btn btn-xs btn-primary">Show FreeBSD packages</a></p>
+<p><a data-toggle="collapse" href="#collapse-freebsd" class="btn btn-xs">Show FreeBSD packages</a></p>
 
 <div id="collapse-freebsd" class="collapse">
 
@@ -99,7 +112,7 @@ Alternatively, many operating systems provide GHC, cabal and Stack through their
   [Stack](https://www.freshports.org/devel/stack/)
 </div>
 
-<p><a data-toggle="collapse" href="#collapse-windows" class="btn btn-xs btn-primary">Show Windows packages</a></p>
+<p><a data-toggle="collapse" href="#collapse-windows" class="btn btn-xs">Show Windows packages</a></p>
 
 <div id="collapse-windows" class="collapse">
 

@@ -117,15 +117,15 @@ Some of the others are
 | [`haddock/`](https://www.haskell.org/haddock/) | Redirect | Haddock maintainers | [Details](#details-haddock) |
 | [`haskell-symposium/`](https://www.haskell.org/haskell-symposium/) | | Haskell Symposium organisers | |
 | [`platform/`](https://www.haskell.org/platform/) | Redirect | | |
-| [`alex/`](https://www.haskell.org/alex/) | | Alex maintainers | [Details](#details-alex) |
+| [`alex/`](https://www.haskell.org/alex/) | Redirect | Alex maintainers | [Details](#details-alex) |
 | [`arrows/`](https://www.haskell.org/arrows/) | | Ross Patterson | |
 | [`communities/`](https://www.haskell.org/communities/) | | | [Details](#details-communities) |
 | [`definition/`](https://www.haskell.org/definition/) | | Haskell Prime committee | [Details](#details-definition) |
-| [`happy/`](https://www.haskell.org/happy/) | | Happy maintainers | [Details](#details-happy) |
+| [`happy/`](https://www.haskell.org/happy/) | Redirect | Happy maintainers | [Details](#details-happy) |
 | [`haskell-workshop/`](https://www.haskell.org/haskell-workshop/) | | Haskell Symposium organisers | [Details](#details-haskell-workshop) |
 | [`hugs/`](https://www.haskell.org/hugs/) | | | [Details](#details-hugs) |
 | [`nhc98/`](https://www.haskell.org/nhc98/) | | York Functional Programming Group | [Details](#details-nhc98) |
-| [`onlinereport/`](https://www.haskell.org/nhc98/) | | Haskell Prime committee | [Details](#details-onlinereport) |
+| [`onlinereport/`](https://www.haskell.org/onlinereport/) | | Haskell Prime committee | [Details](#details-onlinereport) |
 | [`tutorial/`](https://www.haskell.org/tutorial/) | | | [Details](#details-tutorial) |
 
 ## Details on subsites
@@ -148,11 +148,9 @@ Some of the others are
 
 * <a name="details-alex"></a>
   `alex/`
-  
-  Owned by the Alex maintainers.
-  Source at https://github.com/haskell/alex/blob/master/www/index.html.
-  Last update: 6 April 2022.
-  
+
+  Redirect to https://haskell-alex.readthedocs.io
+
   See also <https://github.com/haskell-infra/www.haskell.org/issues/183>
 
 * <a name="details-communities"></a>
@@ -170,8 +168,12 @@ Some of the others are
 * <a name="details-haddock"></a>
   `haddock/`
 
+  Redirect to https://haskell-haddock.readthedocs.io
+
 * <a name="details-happy"></a>
   `happy/`
+
+  Redirect to https://haskell-happy.readthedocs.io
 
   See also <https://github.com/haskell-infra/www.haskell.org/issues/183>
 

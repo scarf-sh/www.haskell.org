@@ -17,7 +17,6 @@ If you are new to Haskell and are not sure where to start from, we recommend [CI
 *   [Learn Haskell by building a blog generator](https://lhbg-book.link)
 *   \[$$\] [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com/)
 *   \[$$\] [Haskell Programming from first principles](http://haskellbook.com)
-*   \[$$\] [Beginning Haskell](http://www.apress.com/9781430262503)
 *   \[$$\] [Thinking Functionally with Haskell](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/thinking-functionally-haskell)
 *   \[$$\] [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
 *   \[$$\] [Haskell: The Craft of Functional Programming](http://www.haskellcraft.com/craft3e/Home.html)
@@ -25,6 +24,7 @@ If you are new to Haskell and are not sure where to start from, we recommend [CI
 *   \[$$\] [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell)
 *   \[$$\] [Effective Haskell (beta)](https://www.pragprog.com/titles/rshaskell/effective-haskell/)
 *   \[$$\] [Haskell: Uma introdução à programação funcional (PT-BR)](https://www.casadocodigo.com.br/products/livro-haskell)
+*   \[$$\] [Learn Physics with Functional Programming: A Hands-on Guide to Exploring Physics with Haskell](https://lpfp.io/)
 
 ## Intermediate Haskell Books
 
@@ -41,10 +41,11 @@ Course material created by instructors
 
 *   [University of Pennsylvania's CIS 194](https://www.seas.upenn.edu/~cis194/)
 *   [Data61 Functional Programming Course](https://github.com/data61/fp-course)
-*   [University of Virginia's CS 1501](http://shuklan.com/haskell/)
 *   [Stanford's cs240h](http://www.scs.stanford.edu/14sp-cs240h/)
 *   [Hendrix's CSCI 360](http://ozark.hendrix.edu/~yorgey/360/f16/)
 *   [University of Helsinki's Haskell MOOC](https://haskell.mooc.fi/)
+*   [University of Nottingham's introductory Haskell course](http://www.cs.nott.ac.uk/~pszgmh/pgp.html)
+*   [University of Nottingham's advanced Haskell course](http://www.cs.nott.ac.uk/~pszgmh/afp.html)
 
 ## Tutorials
 
@@ -56,6 +57,7 @@ Short, dense, classic ways to hit the ground running
 *   [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 *   [Write Yourself a Scheme 2.0](https://wespiser.com/writings/wyas/home.html)
 *   [Learning Haskell](http://learn.hfm.io)
+*   [Haskell Beginners Course 2022](https://github.com/haskell-beginners-2022/course-plan)
 
 ## Online Resources
 
@@ -64,7 +66,7 @@ Curated resources put together by Haskellers:
 *   [The Haskell Wiki](http://wiki.haskell.org)
 *   [The Haskell Wikibook](http://en.wikibooks.org/wiki/Haskell)
 *   [FP Complete's School of Haskell](https://www.schoolofhaskell.com/)
-*   [Stephen Diehl's What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
+*   [Stephen Diehl's What I Wish I Knew When Learning Haskell](https://web.archive.org/web/20220513191346/http://dev.stephendiehl.com/hask/)
 *   [Chris Allen's List of Learning Haskell Resources](https://github.com/bitemyapp/learnhaskell)
 *   [Bob Ippolito's Getting Started with Haskell](http://bob.ippoli.to/archives/2013/01/11/getting-started-with-haskell/)
 *   [Albert Y.C. Lai's Haskell Notes and Examples](http://www.vex.net/~trebla/haskell/index.xhtml)
@@ -86,7 +88,7 @@ Manuals and guides that cover common Haskell tooling:
 
 The Cabal guide is a good start but there's a lot to learn:
 
-*   [Stephen Diehl's Cabal Quickstart](http://dev.stephendiehl.com/hask/#cabal)
+*   [Stephen Diehl's Cabal Quickstart](https://web.archive.org/web/20220513191346/http://dev.stephendiehl.com/hask/#cabal)
 *   [The Storage and Interpretation of Cabal Packages](http://www.vex.net/~trebla/haskell/sicp.xhtml)
 *   [The Cabal of Cabal](http://www.vex.net/~trebla/haskell/cabal-cabal.xhtml)
 
